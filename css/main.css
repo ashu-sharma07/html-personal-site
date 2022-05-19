@@ -1,14 +1,23 @@
 body {
-  background-color: #B8F1B0;
+  background-color: #EAF6F6;
 }
 
 hr {
   border-style: dotted none none none;
   border-color: grey;
-  width: 12%;
-  border-width: 10px;
+  width: 7%;
+  border-width: 8px;
 }
-img{
+
+h1, h3{
+  color: #66BFBF;
+}
+
+.profile-picture{
   height: 152px;
   width: 152px;
+}
+
+.squash{
+  text-decoration: none;
 }
