@@ -18,6 +18,11 @@ h1, h3{
   width: 152px;
 }
 
-.squash{
+.mylink{
   text-decoration: none;
+  color: #205375;
+}
+
+.mylink:hover{
+  color: #66BFBF;
 }
