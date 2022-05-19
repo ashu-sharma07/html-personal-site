@@ -1,2 +1,3 @@
 # html-personal-site
-My First HTML Project 
+My First HTML Project
+HTML Personal Website 
